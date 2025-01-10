@@ -1,0 +1,7 @@
+autogen[gemini,ipython]
+openai
+pandas
+numpy
+scikit-learn
+python-dotenv
+flaml[automl]
